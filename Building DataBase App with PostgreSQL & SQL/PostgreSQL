@@ -1,0 +1,33 @@
+$=> Postgre SQL
+
+1. Object-relational database
+    : Object oriented database + Relational database
+    : Similar to relational database
+    : Object oriented database -> object , classes & inheritance are supported
+
+2. Open Source
+3. Source code is available under PostgreSQL License
+4. Building commercial Apps
+
+
+TYPES OF DATABASES
+
+1. Hierarchical Database
+2. NOSQL Database
+3. Object oriented Database
+4. Relational Database
+5. Network Database
+
+$=>  Relational Database
+
+1. Categorized by a set of tables
+2. SQL ( Structured Query Language )
+    Acts as the application interface
+3. Easier to modify
+    Extending the Database
+    Joining the Database
+
+$: -> OPen Postgre SQl
+1. Go to the start
+2. Enter psql
+3. Then enter the password to start the Postgre Sql

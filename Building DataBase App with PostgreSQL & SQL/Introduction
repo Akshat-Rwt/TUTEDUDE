@@ -1,0 +1,21 @@
+Data :- Collection of Information
+Datum :- Single Piece of Information
+EG : Date of a person -> Name , Age , DOB , GENDER , Nationality ETC
+FORMS -> TEXT , Numbers , Media ETC
+
+DATABASE
+What is Base ?
+ In construction of house , initially the basement in laid in an organised manner
+
+ Data + base => DataBase
+ Organised :- Tables by means of rows and columns
+ Can be easily access managed and updated
+
+ Main Purpose
+ 1. To operate a large amount of information by storing , retrieving and managing them .
+ 2. Many database are available there :
+    MYSQL
+    ORACLE
+    PostgreSQl
+    MONGO DB
+        ETC...
